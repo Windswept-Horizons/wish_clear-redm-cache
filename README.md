@@ -9,7 +9,9 @@ To make it easier for players to clear their RedM cache or their RedM NUI cache,
 3) Unzip the folder.
 4) Go into the folder.
 5) Then double click "wish_clear redm cache_nui".
-
+6) Select the option you need.
+7) Reboot your PC.
+8) Done!
 
 DISCLAIMER: 
 This BAT file will only work if your RedM is installed on your C-drive in the default location. 
