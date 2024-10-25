@@ -4,10 +4,11 @@ BAT file to make clearing RedM cache quick and easy!
 To make it easier for folks to clear their RedM cache or their RedM NUI cache, I created this BAT file that gives a choice to clear the RedM cache or the RedM NUI cache.
 
 **How to use this bat file:**
-1) Save the ZIP to your desktop or other location to find.
-2) Unzip the folder.
-3) Go into the folder.
-4) Then double click "wish_clear redm cache_nui".
+1) Click "Code" (green button), then select "Download ZIP".
+2) Save the ZIP to your desktop or other location to find.
+3) Unzip the folder.
+4) Go into the folder.
+5) Then double click "wish_clear redm cache_nui".
 
 
 DISCLAIMER: 
