@@ -13,4 +13,4 @@ To make it easier for folks to clear their RedM cache or their RedM NUI cache, I
 
 DISCLAIMER: 
 This BAT file will only work if your RedM is installed on your C-drive in the default location. 
-If your RedM is installed in a different directory, you will need to modify the BAT to point to that locations. 
+If your RedM is installed in a different directory, you will need to modify the BAT to point to that location. 
