@@ -3,7 +3,7 @@ BAT file to make clearing RedM cache quick and easy!
 
 To make it easier for players to clear their RedM cache or their RedM NUI cache, I created this BAT file that gives a choice to clear the RedM cache or the RedM NUI cache.
 
-[How to download, unzip and run]((https://imgur.com/a/UMayfwE))
+[How to download, unzip and run](https://imgur.com/a/UMayfwE)
 
 **How to use this bat file:**
 1) To the right, click "Releases".
