@@ -3,6 +3,8 @@ BAT file to make clearing RedM cache quick and easy!
 
 To make it easier for players to clear their RedM cache or their RedM NUI cache, I created this BAT file that gives a choice to clear the RedM cache or the RedM NUI cache.
 
+[How to download, unzip and run]([url](https://imgur.com/a/UMayfwE))
+
 **How to use this bat file:**
 1) To the right, click "Releases".
 2) Towards the bottom of the page, under "Assets", click "wish_clear.redm.cache_nui.zip".
@@ -17,6 +19,6 @@ To make it easier for players to clear their RedM cache or their RedM NUI cache,
 [Video to see the choices in action!](https://imgur.com/a/qL7LVOQ)
 
 
-DISCLAIMER: 
-This BAT file will only work if your RedM is installed on your C-drive in the default location. 
-If your RedM is installed in a different directory, you will need to modify the BAT to point to that location. 
+_DISCLAIMER:_ 
+_This BAT file will only work if your RedM is installed on your C-drive in the default location._ 
+_If your RedM is installed in a different directory, you will need to modify the BAT to point to that location._
