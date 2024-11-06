@@ -15,6 +15,7 @@ To make it easier for players to clear their RedM cache or their RedM NUI cache,
 
 [Video to see the choices in action!](https://imgur.com/a/qL7LVOQ)
 
+NOTE: If you want to see what the BAT will do, simply right-click and select "Edit" and it will open with Notebad or your default text editor.
 
 _DISCLAIMER:_ 
 _This BAT file will only work if your RedM is installed on your C-drive in the default location._ 
